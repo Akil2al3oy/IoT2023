@@ -29,11 +29,11 @@ Week 2 (13 March 2023)
                 
 Week 3 (20 March 2023)
 
-        - Coding Simulation part & Processing part
+        - Coding Communication part part & Processing part
         
 Week 4 (27 March 2023)
 
-        - Coding Simulation part & Processing part 
+        - Coding Communication part & Processing part 
                 (All parts have to finish)
         
 Week 5 (3 April 2023)
